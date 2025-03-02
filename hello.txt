@@ -3,5 +3,11 @@ This is my second edit in the file.
 
 this is my third change
 
+<<<<<<< HEAD
 hello again change in browser
 swati
+=======
+My next change
+
+Swati Mehta
+>>>>>>> main
